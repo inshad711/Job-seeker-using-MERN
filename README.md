@@ -1,5 +1,3 @@
-﻿# Job-Seeker-Webiste-Using-MERN
-
 # Job Seeker Website Using MERN
 
 A comprehensive web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to help job seekers find their dream jobs.
@@ -100,3 +98,4 @@ To run the tests for the Job Seeker Website, follow these steps:
    ```
 
 The tests cover various aspects of the application, including API endpoints, user authentication, and component rendering.
+
